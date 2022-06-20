@@ -1,4 +1,4 @@
-name: Dimuon
+name: DQ
 channels:
   - defaults
 dependencies:
@@ -20,3 +20,4 @@ dependencies:
     - numba-scipy==0.2.0
     - uproot4==4.0.0
     - awkward==1.2.0
+    - git+https://github.com/DarkQuest-FNAL/mplhep
